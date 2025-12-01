@@ -1,20 +1,12 @@
 ﻿title: "The Lizards Blog (English)"
 description: "News and backstage stories from The Lizards world"
-baseurl: ""
 url: "https://blog-en.thelizards.it"
-
-# Autore
 author:
   name: "The Lizards Team"
-  email: "info@thelizards.it"
-
-# Build settings
-markdown: kramdown
+  email: "thelizards@thelizards.it"
 theme: minima
 show_excerpts: true
 lang: en_US
-permalink: /:year/:month/:day/:title/
-timezone: Europe/Rome
 
 # Impostazioni di paginazione
 paginate: 5
@@ -23,11 +15,8 @@ paginate_path: "/page:num/"
 sass:
   style: compressed
 
-# Collections
-collections:
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-paginate
 
 # Default Open Graph settings
 defaults:
@@ -47,14 +36,3 @@ exclude:
   - .github/
   - .gitignore
   - LICENSE
-  - node_modules
-  - vendor
-  - .bundle
-  - .git
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
