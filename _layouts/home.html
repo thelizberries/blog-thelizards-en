@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<h1 class="text-center">The Lizberries Blog (English)</h1>
+
+<div class="posts-grid">
+  {% for post in paginator.posts %}
+  <article class="post-preview{% unless post.image %} no-image{% endunless %}">
+    <a href="{{ post.url | relative_url }}">
+      {% if post.image %}
+        <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" class="{% if post.image == '/assets/images/The-Lizberries-Logo_small.png' %}default-image{% endif %}">
+      {% endif %}
+      <h2>{{ post.title }}</h2>
+      <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+      <p class="excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 30 }}
+      </p>
+      <p class="read-more text-red">→ Read more</p>
+    </a>
+  </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link">
+      ← Previous
+    </a>
+  {% else %}
+    <span class="pagination-link disabled">← Previous</span>
+  {% endif %}
+
+  <div class="pagination-numbers">
+    {% if paginator.page == 1 %}
+      <span class="pagination-number active">1</span>
+    {% else %}
+      <a href="{{ '/' | relative_url }}" class="pagination-number">1</a>
+    {% endif %}
+
+    {% for page in (2..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="pagination-number active">{{ page }}</span>
+      {% elsif page == 2 or page == paginator.total_pages or page >= paginator.page - 2 and page <= paginator.page + 2 %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="pagination-number">{{ page }}</a>
+      {% elsif page == paginator.page - 3 or page == paginator.page + 3 %}
+        <span class="pagination-ellipsis">...</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link">
+      Next →
+    </a>
+  {% else %}
+    <span class="pagination-link disabled">Next →</span>
+  {% endif %}
+</div>
+{% endif %}
+
+<!-- Script per effetto fade all'apertura del post -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const postLinks = document.querySelectorAll('.post-preview a');
+    postLinks.forEach(link => {
+      link.addEventListener('click', function (e) {
+        e.preventDefault();
+        const targetUrl = this.href;
+        document.body.classList.add('fade-out');
+        setTimeout(() => {
+          window.location.href = targetUrl;
+        }, 500);
+      });
+    });
+  });
+</script>

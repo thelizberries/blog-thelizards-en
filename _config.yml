@@ -1,0 +1,38 @@
+﻿title: "The Lizards Blog (English)"
+description: "News and backstage stories from The Lizards world"
+url: "https://blog-en.thelizards.it"
+author:
+  name: "The Lizards Team"
+  email: "info@thelizards.it"
+theme: minima
+show_excerpts: true
+lang: en_US
+
+# Impostazioni di paginazione
+paginate: 5
+paginate_path: "/page:num/"
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+
+# Default Open Graph settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      image: "/assets/images/The-Lizards-Logo_small.png"
+      layout: post
+      lang: "en"
+
+# These are files that GitHub Pages should ignore
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .github/
+  - .gitignore
+  - LICENSE
