@@ -1,3 +1,2 @@
-﻿# blog-thelizards-en
-The Lizards blog in English
-
+# blog-en
+the lizberries blog in English

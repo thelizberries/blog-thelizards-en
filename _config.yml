@@ -1,5 +1,5 @@
-﻿title: "The Lizards Blog (English)"
-description: "News and backstage stories from The Lizards world"
+title: "The Lizards Blog (English)"
+description: "News and backstage stories from the The Lizards world"
 url: "https://blog-en.thelizards.it"
 author:
   name: "The Lizards Team"
@@ -24,7 +24,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: "/assets/images/The-Lizards-Logo_small.png"
+      image: "/assets/images/The-Lizberries-Logo_small.png"
       layout: post
       lang: "en"
 
