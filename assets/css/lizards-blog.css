@@ -336,6 +336,39 @@ footer {
   color: #aaa;
 }
 
+/* Social Links - Rock Style */
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.social-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  height: 45px;
+  font-size: 1.5em;
+  color: var(--text);
+  background-color: rgba(196, 30, 58, 0.1);
+  border: 2px solid var(--accent);
+  border-radius: 50%;
+  transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+  background-color: var(--accent);
+  color: #fff;
+  transform: scale(1.1);
+  box-shadow: 0 0 20px rgba(196, 30, 58, 0.6);
+}
+
+.social-links a i {
+  display: inline-block;
+}
+
 @media (max-width: 600px) {
   .post-preview {
     width: 90%;
