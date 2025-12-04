@@ -7,7 +7,7 @@ original_file: "2025-11-09-welcome.md"
 ---
 Hi everyone! 
 
-We are The Lizards  a group that has decided to open this little online space to share with you what we are passionate about.
+We are The Lizards a group that has decided to open this little online space to share with you what we are passionate about.
 
 Here you will find:
 -  behind the scenes of our projects
