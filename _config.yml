@@ -24,7 +24,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      image: "/assets/images/The-Lizards-Logo_small.png"
+      image: "/assets/images/The-Lizards-Logo_small.webp"
       layout: post
       lang: "en"
 
