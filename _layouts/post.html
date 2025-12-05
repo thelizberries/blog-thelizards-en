@@ -10,6 +10,44 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title }}",
+    "image": "{{ page.image | default: '/assets/images/The-Lizards-Logo_small.webp' | absolute_url }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "MusicGroup",
+      "name": "The Lizards",
+      "url": "https://www.thelizards.it",
+      "sameAs": [
+        "https://www.facebook.com/TheLizardsMilano",
+        "https://www.youtube.com/thelizardsrock",
+        "https://www.instagram.com/thelizardsmilano",
+        "https://open.spotify.com/artist/5YnIGjxUv0DNzA9doia11J"
+      ]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "The Lizards",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ '/assets/images/The-Lizards-Logo_small.webp' | absolute_url }}"
+      }
+    },
+    "description": "{{ page.description | default: page.excerpt | strip_html | truncate: 160 }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    },
+    "inLanguage": "en-US"
+  }
+  </script>
+  
   <!-- return Link -->
   <div class="back-link text-center" style="margin-top: 2rem;">
   <a href="#" class="text-red text-uppercase" id="backLink">
