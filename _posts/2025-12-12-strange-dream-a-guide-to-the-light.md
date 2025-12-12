@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Strange Dream: A Guide to the Light - The new single from The Lizards"
+title: "Strange Dream: A Guide to the Light"
 date: 2025-12-12
-description: "Lasciati guidare da un elfa in questo viaggio di trasformazione interiore in una cornice irlandese."
+description: "Lasciati guidare da un elfa in questo viaggio di trasformazione interiore in una cornice irlandese, nel nuovo brano Strange Dream dei The Lizards"
 image: /assets/images/posts/Screenshot 1.webp
 original_file: "2025-12-12-strange-dream-una-guida-verso-la-luce-il-nuovo-singolo-dei-the-lizards.md"
 ---
