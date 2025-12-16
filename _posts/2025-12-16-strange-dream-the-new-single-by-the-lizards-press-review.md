@@ -6,6 +6,9 @@ description: 'Strange Dream is the new single by The Lizards: an intense rock so
 image: /assets/images/posts/SD-copertina quadrata.webp
 original_file: "2025-12-16-strange-dream-il-nuovo-singolo-dei-the-lizards-rassegna-stampa.md"
 ---
+<!--more-->
+
+
 <p>
 The release of <em>Strange Dream</em>, the new single by <strong>The Lizards</strong>, received attention from numerous Italian musical and cultural portals, which described the song from different perspectives.
 </p>
