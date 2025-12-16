@@ -138,7 +138,7 @@ spread the news of the release, helping to broaden its visibility.
 </li>
 </ul>
 
-<p>The single *Strange Dream* is also available on all major streaming platforms and digital stores.
+<p>The single <em>Strange Dream<em> is also available on all major streaming platforms and digital stores.
 
-👉 Listen to **<a href="https://orcd.co/thelizards-strangedream" target="_blank" rel="noopener" style="text-decoration: underline;">Strange Dream</a>** on the official platforms.
+👉 Listen to <a href="https://orcd.co/thelizards-strangedream" target="_blank" rel="noopener" style="text-decoration: underline;">Strange Dream</a> on the official platforms.
 </p>
