@@ -7,11 +7,12 @@ image: /assets/images/posts/SD-copertina quadrata.webp
 original_file: "2025-12-16-strange-dream-il-nuovo-singolo-dei-the-lizards-rassegna-stampa.md"
 ---
 <p>
-The release of <em>Strange Dream</em>, the new single by <strong>The Lizards</strong>, received attention from numerous Italian musical and cultural portals, which described the song from different perspectives.
-</p>
+The release of <em>Strange Dream</em>, the new single by <strong>The Lizards</strong>, received
 
 <!--more-->
 
+attention from numerous Italian musical and cultural portals, which described the song from different perspectives.
+</p>
 
 <ul>
 <li>
