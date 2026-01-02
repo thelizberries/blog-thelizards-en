@@ -37,4 +37,4 @@ The return of the drone, however, was not without tension: it had gone very far 
 ## Strange Dream as a travel experience
 Strange Dream is not just a video: it is a journey, a tribute, a dream lived step by step, immersed in a land that can be harsh, mystical and deeply inspiring.🍀✨
 
-**<a href="https://www.youtube.com/watch?v=J5zimQWIO0Y" target="_blank" rel="noopener" style="text-decoration: underline;">Guarda il video del backstage</a>**
+**<a href="https://www.youtube.com/watch?v=J5zimQWIO0Y" target="_blank" rel="noopener" style="text-decoration: underline;">Watch the backstage video</a>**
