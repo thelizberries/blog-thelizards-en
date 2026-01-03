@@ -27,4 +27,4 @@ With affection and infinite notes,
 
 The Lizards
 
-**<a href="https://open.spotify.com/playlist/6pRJ3oABrfUZWnSIWq8Nu3?si=dKq7eEUERMKqscquGXmPSw&pi=aQP8wgMyQSCK6&nd=1&dlsi=af2682b7e3284a2e" target="_blank" rel="noopener"style="text-decoration: underline;">While waiting for the new songs, listen to our playlist 🎧</a>**
+**<a href="https://open.spotify.com/playlist/6pRJ3oABrfUZWnSIWq8Nu3?si=dKq7eEUERMKqscquGXmPSw&pi=aQP8wgMyQSCK6&nd=1&dlsi=af2682b7e3284a2e" target="_blank" rel="noopener" style="text-decoration: underline;"> While waiting for the new songs, listen to our playlist 🎧</a>**
