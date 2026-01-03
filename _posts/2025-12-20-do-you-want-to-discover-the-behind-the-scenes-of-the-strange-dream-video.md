@@ -1,8 +1,8 @@
----
+﻿---
 layout: post
 title: "✨ Do you want to discover the behind the scenes of the “Strange Dream” video?✨"
 date: 2025-12-20
-description: "Immerse yourself in the evocative landscapes of Ireland on the journey that inspired "Strange Dream", the new single by The Lizards during their tour - tribute to The Cranberries"
+description: "Immerse yourself in the evocative landscapes of Ireland on the journey that inspired “Strange Dream”, the new single by The Lizards during their tour - tribute to The Cranberries"
 image: /assets/images/posts/elfo.webp
 original_file: "2025-12-20-vuoi-scoprire-i-retroscena-del-video-strange-dream.md"
 ---
