@@ -110,7 +110,7 @@ style="text-decoration: underline;">Free Art News</a>
 <a href="https://webcomunicati.blogspot.com/2025/12/the-lizards-strange-dream-una-guida.html"
 target="_blank"
 rel="noopener"
-style="text-decoration: underline;">Web Press releases</a>
+style="text-decoration: underline;">Web Press Releases</a>
 </li>
 </ul>
 
