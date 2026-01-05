@@ -132,6 +132,12 @@ header.blog-header nav a.lang-link.active {
   position: relative;
 }
 
+.post-preview a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
 .post-preview::before {
   content: '';
   position: absolute;
@@ -181,6 +187,11 @@ header.blog-header nav a.lang-link.active {
 .post-preview .excerpt {
   padding: 0 1rem 1rem;
   color: var(--muted);
+}
+
+.post-preview .read-more {
+  margin-top: auto;
+  text-align: right;
 }
 
 .post-preview img {
