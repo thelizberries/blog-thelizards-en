@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Strange Dream the new single by The Lizards: press review"
+title: "Strange Dream: press review of the single"
 date: 2025-12-16
 description: "Strange Dream is the new single by The Lizards: an intense rock song that tells of a journey towards the light, between emotions and introspection."
 image: /assets/images/posts/SD-copertina quadrata.webp
 original_file: "2025-12-16-strange-dream-il-nuovo-singolo-dei-the-lizards-rassegna-stampa.md"
+source_hash: "7937537ede8eaffed913a9901111d091"
 ---
 <!--more-->
 

@@ -5,6 +5,7 @@ date: 2026-01-03
 description: "The Lizards await you for a 2026 full of music, new stories and backstage.Read our wishes and stay with us for the news"
 image: /assets/images/posts/lizards_2026_01_03.webp
 original_file: "2026-01-03-buon-anno-dai-the-lizards.md"
+source_hash: "cdfd43b8edb32c51eb95829a82d4fe68"
 ---
 ## Our best wishes for 2026
 
@@ -27,4 +28,4 @@ With affection and infinite notes,
 
 The Lizards
 
-**<a href="https://open.spotify.com/playlist/6pRJ3oABrfUZWnSIWq8Nu3?si=dKq7eEUERMKqscquGXmPSw&pi=aQP8wgMyQSCK6&nd=1&dlsi=af2682b7e3284a2e" target="_blank" rel="noopener" style="text-decoration: underline;"> While waiting for the new songs, listen to our playlist 🎧</a>**
+**<a href="https://open.spotify.com/playlist/6pRJ3oABrfUZWnSIWq8Nu3?si=dKq7eEUERMKqscquGXmPSw&pi=aQP8wgMyQSCK6&nd=1&dlsi=af2682b7e3284a2e" target="_blank" rel="noopener"style="text-decoration: underline;">While waiting for the new songs, listen to our playlist 🎧</a>**

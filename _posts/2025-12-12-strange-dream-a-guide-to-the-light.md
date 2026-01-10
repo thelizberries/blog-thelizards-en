@@ -5,6 +5,7 @@ date: 2025-12-12
 description: "Let yourself be guided by an elf on this journey of inner transformation in an Irish setting, in the new song Strange Dream by The Lizards"
 image: /assets/images/posts/Screenshot 1.webp
 original_file: "2025-12-12-strange-dream-una-guida-verso-la-luce-il-nuovo-singolo-dei-the-lizards.md"
+source_hash: "2b24308f214c466dc96d83179db93298"
 ---
 ## The Lizards and their “Strange Dream”
 
