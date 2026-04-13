@@ -37,7 +37,7 @@ inserted <em>Strange Dream</em> into the alternative rock panorama.
 
 <li>
 <strong>
-<a href="https://www.intopic.it/article/385533/"
+<a href="https://www.intopic.it/articolo/385533/"
 target="_blank"
 rel="noopener"
 style="text-decoration: underline;">Intopic</a>
