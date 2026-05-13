@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Lizards at Radio Deejay Fox: vent"anni di rock"
+title: "The Lizards on Radio Deejay Fox: Twenty Years of Rock"
 date: 2026-05-12
-description: "The Lizards guests of Radio Deejay Fox on 29 April 2026: vent"anni di rock, Strange Dream in studio e il tour in Irlanda alle porte."
+description: "The Lizards guests on Radio Deejay Fox on April 29th, 2026: twenty years of rock, Strange Dream live in the studio, and the Ireland tour just around the corner."
 original_file: "2026-05-12-the-lizards-a-radio-deejay-fox-vent-anni-di-rock.md"
 source_hash: "449f73d87650e154aad7d8ee0cdf8e83"
 ---
