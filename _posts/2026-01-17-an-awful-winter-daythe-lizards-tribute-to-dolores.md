@@ -2,7 +2,7 @@
 layout: post
 title: "“An Awful Winter Day”The Lizards: tribute to Dolores"
 date: 2026-01-17
-description: "The Lizards with the project The Lizberries pay homage to Dolores O'Riordan (The Cranberries) with the single "An Awful Winter Day"."
+description: "The Lizards with the project The Lizberries pay homage to Dolores O'Riordan (The Cranberries) with the single 'An Awful Winter Day'."
 image: /assets/images/posts/Concerto in memoria di Dolores O'Riordan.webp
 original_file: "2026-01-17-an-awful-winter-day-the-lizards-omaggio-a-dolores.md"
 source_hash: "730bb1a649d4692254f60f6c4f86891c"
