@@ -5,10 +5,9 @@ date: 2026-06-13
 description: "On June 26, the first album by Lizards, released with Sorry Mom Records. Discover the singles Lying and Like Eagles!"
 image: /assets/images/posts/IMG_2027.webp
 original_file: "2026-06-13-i-lizards-il-primo-album-in-uscita-il-26-giugno.md"
-source_hash: "d74ca2ff8edcc71c6703a0a76533503c"
+source_hash: "93f62804978a9679a8f2434909512bce"
 ---
-The LIZARDS ANNUNCIANO THE FIRST ALBUM
-26 JUNE
+## I Lizards: first official album released on June 26 with Sorry Mom Records
 
 ♪
 
@@ -20,7 +19,7 @@ from the point of departure to the point of arrival, contains all the singles pu
 Years.
 
 
-
+♪ Lizards' sound: from singles Lying and Like Eagles to full album
 
 The album contains all the nuances that characterize the sound of Lizards, from the most tracks
 energetic and powerful to the most delicate ones.
@@ -28,7 +27,7 @@ To anticipate the release is the single "Lying", intense and engaging track that
 spirit of the project, and inside you will also find a second unpublished, "Like Eagles", song
 that occupies a special place in our heart and that we look forward to making you listen.
 
-Track list:
+### Full tracklist of the first album
 
 1 Full Of Dreams
 
@@ -51,9 +50,7 @@ Track list:
 10 Rainbow
 
 
-
-
-NOT ONLY CANZONS
+## Themes and inspirations: an inner journey between Cranberries, Depeche Mode and Coldplay
 
 This record is not just a simple collection of songs, but a real journey
 interior that tells our path made of fragility, doubts, hopes, changes and
@@ -64,9 +61,9 @@ We are inspired by artists who have marked the history of contemporary music
 like Cranberries, Depeche Mode and Coldplay.
 
 
-PRONTS FOR THIS NEW CHAPTER
+## Listen to Lizards' first album on all digital platforms
 
 Since June 26 the disk will be available on all digital platforms, we look forward to
 share with you this new beginning and make you share a new chapter of our
 History.
-Welcome to the Lizard world
+Welcome to The Lizards world
